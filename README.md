@@ -1,2 +1,2 @@
-# -playwright-vscode-example
+# playwright-vscode-example
 demo repository
