@@ -1,0 +1,17 @@
+{
+  "name": "playwright-vscode-example",
+  "version": "1.0.0",
+  "description": "demo repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.44.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.6"
+  }
+}
